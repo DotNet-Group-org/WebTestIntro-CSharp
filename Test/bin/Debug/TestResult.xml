@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\data\programs\examples\WebTestingIntro\SourceCode\WebTestIntroC#\Test\bin\Debug\WebTestIntro.nunit" total="17" failures="0" not-run="0" date="2007-10-08" time="10:21:26">
+  <environment nunit-version="2.4.1.0" clr-version="2.0.50727.832" os-version="Microsoft Windows NT 5.1.2600 Service Pack 2" platform="Win32NT" cwd="C:\data\programs\examples\WebTestingIntro\SourceCode\WebTestIntroC#\Test\bin\Debug" machine-name="KAGETABLET" user="jfh" user-domain="KAGETABLET" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite name="C:\data\programs\examples\WebTestingIntro\SourceCode\WebTestIntroC#\Test\bin\Debug\WebTestIntro.nunit" success="True" time="18.457" asserts="0">
+    <results>
+      <test-suite name="C:\data\programs\examples\WebTestingIntro\SourceCode\WebTestIntroC#\Test\bin\Debug\Test.dll" success="True" time="18.457" asserts="0">
+        <results>
+          <test-suite name="BirthdayClubMemberInfoFixture" success="True" time="1.102" asserts="0">
+            <results>
+              <test-case name="BirthdayClubMemberInfoFixture.Add" executed="True" success="True" time="1.082" asserts="5" />
+              <test-case name="BirthdayClubMemberInfoFixture.Delete" executed="True" success="True" time="0.020" asserts="5" />
+              <test-case name="BirthdayClubMemberInfoFixture.List" executed="True" success="True" time="0.000" asserts="2" />
+            </results>
+          </test-suite>
+          <test-suite name="NUnit" success="True" time="0.000" asserts="0">
+            <results>
+              <test-suite name="Extensions" success="True" time="0.000" asserts="0">
+                <results>
+                  <test-suite name="Asp" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-suite name="WebFormTestCase" success="True" time="0.000" asserts="0">
+                        <results />
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+          <test-suite name="NUnitAsp" success="True" time="1.823" asserts="0">
+            <results>
+              <test-suite name="BirthdayClubMemberInfoFixture" success="True" time="1.722" asserts="0">
+                <results>
+                  <test-case name="NUnitAsp.BirthdayClubMemberInfoFixture.AddMember" executed="True" success="True" time="1.312" asserts="5" />
+                  <test-case name="NUnitAsp.BirthdayClubMemberInfoFixture.ChooseDifferentLanguage" executed="True" success="True" time="0.160" asserts="2" />
+                  <test-case name="NUnitAsp.BirthdayClubMemberInfoFixture.GridViewExample" executed="True" success="True" time="0.050" asserts="2" />
+                  <test-case name="NUnitAsp.BirthdayClubMemberInfoFixture.PickDate" executed="True" success="True" time="0.080" asserts="3" />
+                  <test-case name="NUnitAsp.BirthdayClubMemberInfoFixture.SmokeTest" executed="True" success="True" time="0.050" asserts="1" />
+                  <test-case name="NUnitAsp.BirthdayClubMemberInfoFixture.UseDifferentUserLanguage" executed="True" success="True" time="0.050" asserts="2" />
+                </results>
+              </test-suite>
+              <test-suite name="ExampleFixture" success="True" time="0.100" asserts="0">
+                <results>
+                  <test-case name="NUnitAsp.ExampleFixture.EnterName" executed="True" success="True" time="0.070" asserts="2" />
+                  <test-case name="NUnitAsp.ExampleFixture.SmokeTest" executed="True" success="True" time="0.030" asserts="2" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+          <test-suite name="Test" success="True" time="0.000" asserts="0">
+            <results>
+              <test-suite name="Presentation" success="True" time="0.000" asserts="0">
+                <results>
+                  <test-suite name="BirthdayClubMemberInfoPresenterTest" success="True" time="0.000" asserts="0">
+                    <results />
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+          <test-suite name="WatiN" success="True" time="15.482" asserts="0">
+            <results>
+              <test-suite name="BirthdayClubMemberInfoFixture" success="True" time="12.027" asserts="0">
+                <results>
+                  <test-case name="WatiN.BirthdayClubMemberInfoFixture.AddMember" executed="True" success="True" time="5.007" asserts="5" />
+                  <test-case name="WatiN.BirthdayClubMemberInfoFixture.ChooseDifferentLanguage" executed="True" success="True" time="2.634" asserts="2" />
+                  <test-case name="WatiN.BirthdayClubMemberInfoFixture.PickDate" executed="True" success="True" time="2.373" asserts="3" />
+                  <test-case name="WatiN.BirthdayClubMemberInfoFixture.SmokeTest" executed="True" success="True" time="2.013" asserts="4" />
+                </results>
+              </test-suite>
+              <test-suite name="ExampleFixture" success="True" time="3.455" asserts="0">
+                <results>
+                  <test-case name="WatiN.ExampleFixture.EnterName" executed="True" success="True" time="1.883" asserts="7" />
+                  <test-case name="WatiN.ExampleFixture.SmokeTest" executed="True" success="True" time="1.572" asserts="4" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

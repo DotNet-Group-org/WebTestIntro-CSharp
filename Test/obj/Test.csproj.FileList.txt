@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Test.dll.config
+bin\Debug\Test.dll
+bin\Debug\Test.pdb
+bin\Debug\App.dll
+bin\Debug\nunit.framework.dll
+bin\Debug\App.pdb
+bin\Debug\nunit.framework.xml
+obj\Debug\Test.dll
+obj\Debug\Test.pdb
+bin\Debug\NUnitAsp.dll
+obj\Debug\Test.Properties.Resources.resources
+obj\Debug\Test.csproj.GenerateResource.Cache
+bin\Debug\ThoughtWorks.Selenium.Core.dll
+bin\Debug\WatiN.Core.dll
+bin\Debug\Interop.SHDocVw.dll
